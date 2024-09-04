@@ -18,7 +18,7 @@ This project is a simple yet effective spam classifier that uses the Naive Bayes
 ## Project Structure
 
 ```plaintext
-spam_classifier.ipynb/
+spam_classifier/
 ├── app.py                    # Streamlit app script
 ├── model.pkl                 # Trained model
 ├── vectorizer.pkl            # Vectorizer for text preprocessing
