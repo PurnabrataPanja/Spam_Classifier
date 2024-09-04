@@ -8,7 +8,7 @@ A machine learning-based spam classifier that predicts whether a given message i
 
 ## Project Overview
 
-This project is a simple yet effective spam classifier that uses the Naive Bayes algorithm for classification. It can classify individual messages. The app also provides model performance evaluation tools, such as confusion matrix visualization and classification reports.
+This project is a simple yet effective spam classifier that uses the Naive Bayes algorithm for classification. It can classify individual messages. The Interactive Python Notebook also provides model performance evaluation tools, such as confusion matrix visualization and classification reports.
 
 ## Features
 
@@ -18,7 +18,7 @@ This project is a simple yet effective spam classifier that uses the Naive Bayes
 ## Project Structure
 
 ```plaintext
-spam_classifier/
+spam_classifier.ipynb/
 ├── app.py                    # Streamlit app script
 ├── model.pkl                 # Trained model
 ├── vectorizer.pkl            # Vectorizer for text preprocessing
