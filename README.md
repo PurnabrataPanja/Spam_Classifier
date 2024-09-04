@@ -8,7 +8,7 @@ A machine learning-based spam classifier that predicts whether a given message i
 
 ## Project Overview
 
-This project is a simple yet effective spam classifier that uses the Naive Bayes algorithm for classification. It can classify individual messages or perform batch predictions on multiple messages. The app also provides model performance evaluation tools, such as confusion matrix visualization and classification reports.
+This project is a simple yet effective spam classifier that uses the Naive Bayes algorithm for classification. It can classify individual messages. The app also provides model performance evaluation tools, such as confusion matrix visualization and classification reports.
 
 ## Features
 
