@@ -1,6 +1,6 @@
 # Spam Classifier
 
-A machine learning-based spam classifier that predicts whether a given message is spam or not spam. This project is built using Python, and the user interface is created with Streamlit for ease of use and deployment.
+A machine learning-based spam classifier that predicts whether a given message is spam or not-spam. This project is built using Python, and the user interface is created with Streamlit for ease of use and deployment.
 
 ## Live Demo
 
@@ -12,7 +12,7 @@ This project is a simple yet effective spam classifier that uses the Naive Bayes
 
 ## Features
 
-- **Single Message Prediction**: Classify a single message as spam or ham.
+- **Single Message Prediction**: Classify a single message as spam or not-spam.
 - **Model Performance Evaluation**: Evaluate the model's performance on a test dataset using accuracy, confusion matrix, and classification report.
 
 ## Project Structure
